@@ -1,1 +1,1 @@
-Powershell.exe -executionpolicy remotesigned -File  "C:\Users\SundararamanS\OneDrive - WonderBotz LLP\Documents\Scripts\StayAwake.ps1"
+Powershell.exe -executionpolicy remotesigned -File  "{YOUR POWERSHELL FILE PATH GOES HERE}"
